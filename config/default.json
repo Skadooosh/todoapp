@@ -1,0 +1,4 @@
+{ 
+    "ATLAS_URI" : "mongodb+srv://mern123:mern123@cluster0-jcvlk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "todoList_jwtsecret"
+}

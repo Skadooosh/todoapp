@@ -1,0 +1,27 @@
+{
+  "name": "mern-todo-app",
+  "version": "1.0.0",
+  "description": "Mern TODO App",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Pranshu khanna",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^4.1.1",
+    "config": "^3.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
